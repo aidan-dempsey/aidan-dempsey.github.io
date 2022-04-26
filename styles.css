@@ -4,3 +4,13 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
 }
+
+.logos {
+    text-align: right;
+    padding-right: 10%;
+    /* padding-top: 3%; */
+}
+
+nav {
+    padding: 2.5%;
+}
